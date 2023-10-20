@@ -1,0 +1,465 @@
+Circuit: * C:\Users\Leon\Archivos personales\Universidad\4_GIERM\Instr_Acond_Signal\Proyecto\ServoAmplifier\ServoAmplifier\MOSFET_configuration\IRFP_mosfets\frequency_study_pp_MOSFET\frequency_study_pp_MOSFET.asc
+
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u3:1)
+Ignoring empty pin current: Ix(u3:2)
+Ignoring empty pin current: Ix(u4:1)
+Ignoring empty pin current: Ix(u4:2)
+Ignoring empty pin current: Ix(u5:1)
+Ignoring empty pin current: Ix(u5:2)
+Ignoring empty pin current: Ix(u6:1)
+Ignoring empty pin current: Ix(u6:2)
+Ignoring empty pin current: Ix(u7:1)
+Ignoring empty pin current: Ix(u7:2)
+Ignoring empty pin current: Ix(u8:1)
+Ignoring empty pin current: Ix(u8:2)
+Ignoring empty pin current: Ix(u9:1)
+Ignoring empty pin current: Ix(u9:2)
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u3:1)
+Ignoring empty pin current: Ix(u3:2)
+Ignoring empty pin current: Ix(u4:1)
+Ignoring empty pin current: Ix(u4:2)
+Ignoring empty pin current: Ix(u5:1)
+Ignoring empty pin current: Ix(u5:2)
+Ignoring empty pin current: Ix(u6:1)
+Ignoring empty pin current: Ix(u6:2)
+Ignoring empty pin current: Ix(u7:1)
+Ignoring empty pin current: Ix(u7:2)
+Ignoring empty pin current: Ix(u8:1)
+Ignoring empty pin current: Ix(u8:2)
+Ignoring empty pin current: Ix(u9:1)
+Ignoring empty pin current: Ix(u9:2)
+.step fp=1
+.step fp=1001
+.step fp=2001
+.step fp=3001
+.step fp=4001
+.step fp=5001
+.step fp=6001
+.step fp=7001
+.step fp=8001
+.step fp=9001
+.step fp=10001
+.step fp=11001
+.step fp=12001
+.step fp=13001
+.step fp=14001
+.step fp=15001
+.step fp=16001
+.step fp=17001
+.step fp=18001
+.step fp=19001
+.step fp=20001
+.step fp=21001
+.step fp=22001
+.step fp=23001
+.step fp=24001
+.step fp=25001
+.step fp=26001
+.step fp=27001
+.step fp=28001
+.step fp=29001
+.step fp=30001
+.step fp=31001
+.step fp=32001
+.step fp=33001
+.step fp=34001
+.step fp=35001
+.step fp=36001
+.step fp=37001
+.step fp=38001
+.step fp=39001
+.step fp=40001
+.step fp=41001
+.step fp=42001
+.step fp=43001
+.step fp=44001
+.step fp=45001
+.step fp=46001
+.step fp=47001
+.step fp=48001
+.step fp=49001
+.step fp=50001
+.step fp=51001
+.step fp=52001
+.step fp=53001
+.step fp=54001
+.step fp=55001
+.step fp=56001
+.step fp=57001
+.step fp=58001
+.step fp=59001
+.step fp=60001
+.step fp=61001
+.step fp=62001
+.step fp=63001
+.step fp=64001
+.step fp=65001
+.step fp=66001
+.step fp=67001
+.step fp=68001
+.step fp=69001
+.step fp=70001
+.step fp=71001
+.step fp=72001
+.step fp=73001
+.step fp=74001
+.step fp=75001
+.step fp=76001
+.step fp=77001
+.step fp=78001
+.step fp=79001
+.step fp=80001
+.step fp=81001
+.step fp=82001
+.step fp=83001
+.step fp=84001
+.step fp=85001
+.step fp=86001
+.step fp=87001
+.step fp=88001
+.step fp=89001
+.step fp=90001
+.step fp=91001
+.step fp=92001
+.step fp=93001
+.step fp=94001
+.step fp=95001
+.step fp=96001
+.step fp=97001
+.step fp=98001
+.step fp=99001
+.step fp=100001
+.step fp=101001
+.step fp=102001
+.step fp=103001
+.step fp=104001
+.step fp=105001
+.step fp=106001
+.step fp=107001
+.step fp=108001
+.step fp=109001
+.step fp=110001
+.step fp=111001
+.step fp=112001
+.step fp=113001
+.step fp=114001
+.step fp=115001
+.step fp=116001
+.step fp=117001
+.step fp=118001
+.step fp=119001
+.step fp=120001
+.step fp=121001
+.step fp=122001
+.step fp=123001
+.step fp=124001
+.step fp=125001
+.step fp=126001
+.step fp=127001
+.step fp=128001
+.step fp=129001
+.step fp=130001
+.step fp=131001
+.step fp=132001
+.step fp=133001
+.step fp=134001
+.step fp=135001
+.step fp=136001
+.step fp=137001
+.step fp=138001
+.step fp=139001
+.step fp=140001
+.step fp=141001
+.step fp=142001
+.step fp=143001
+.step fp=144001
+.step fp=145001
+.step fp=146001
+.step fp=147001
+.step fp=148001
+.step fp=149001
+.step fp=150001
+.step fp=151001
+.step fp=152001
+.step fp=153001
+.step fp=154001
+.step fp=155001
+.step fp=156001
+.step fp=157001
+.step fp=158001
+.step fp=159001
+.step fp=160001
+.step fp=161001
+.step fp=162001
+.step fp=163001
+.step fp=164001
+.step fp=165001
+.step fp=166001
+.step fp=167001
+.step fp=168001
+.step fp=169001
+.step fp=170001
+.step fp=171001
+.step fp=172001
+.step fp=173001
+.step fp=174001
+.step fp=175001
+.step fp=176001
+.step fp=177001
+.step fp=178001
+.step fp=179001
+.step fp=180001
+.step fp=181001
+.step fp=182001
+.step fp=183001
+.step fp=184001
+.step fp=185001
+.step fp=186001
+.step fp=187001
+.step fp=188001
+.step fp=189001
+.step fp=190001
+.step fp=191001
+.step fp=192001
+.step fp=193001
+.step fp=194001
+.step fp=195001
+.step fp=196001
+.step fp=197001
+.step fp=198001
+.step fp=199001
+.step fp=200000
+
+
+Measurement: iout_pp
+  step	PP(i(la))	FROM	TO
+     1	3.11666	0	1
+     2	3.11666	0	0.000999001
+     3	3.11666	0	0.00049975
+     4	3.11666	0	0.000333222
+     5	3.11665	0	0.000249938
+     6	3.1166	0	0.00019996
+     7	3.11632	0	0.000166639
+     8	3.1155	0	0.000142837
+     9	3.11373	0	0.000124984
+    10	3.11063	0	0.000111099
+    11	3.10589	0	9.999e-05
+    12	3.09931	0	9.09008e-05
+    13	3.09078	0	8.33264e-05
+    14	3.08023	0	7.69172e-05
+    15	3.06768	0	7.14235e-05
+    16	3.05318	0	6.66622e-05
+    17	3.03679	0	6.24961e-05
+    18	3.01859	0	5.88201e-05
+    19	2.99869	0	5.55525e-05
+    20	2.97717	0	5.26288e-05
+    21	2.95417	0	4.99975e-05
+    22	2.92978	0	4.76168e-05
+    23	2.9041	0	4.54525e-05
+    24	2.87725	0	4.34764e-05
+    25	2.84938	0	4.16649e-05
+    26	2.82054	0	3.99984e-05
+    27	2.79089	0	3.84601e-05
+    28	2.7605	0	3.70357e-05
+    29	2.72946	0	3.5713e-05
+    30	2.69788	0	3.44816e-05
+    31	2.66588	0	3.33322e-05
+    32	2.63349	0	3.2257e-05
+    33	2.60082	0	3.1249e-05
+    34	2.56789	0	3.03021e-05
+    35	2.53484	0	2.94109e-05
+    36	2.50169	0	2.85706e-05
+    37	2.46853	0	2.7777e-05
+    38	2.4354	0	2.70263e-05
+    39	2.40237	0	2.63151e-05
+    40	2.36944	0	2.56404e-05
+    41	2.3367	0	2.49994e-05
+    42	2.3042	0	2.43896e-05
+    43	2.27195	0	2.3809e-05
+    44	2.23999	0	2.32553e-05
+    45	2.20836	0	2.27268e-05
+    46	2.17705	0	2.22217e-05
+    47	2.14611	0	2.17387e-05
+    48	2.11555	0	2.12761e-05
+    49	2.08541	0	2.08329e-05
+    50	2.0557	0	2.04077e-05
+    51	2.0264	0	1.99996e-05
+    52	1.99756	0	1.96075e-05
+    53	1.96915	0	1.92304e-05
+    54	1.94119	0	1.88676e-05
+    55	1.91371	0	1.85182e-05
+    56	1.88671	0	1.81815e-05
+    57	1.86016	0	1.78568e-05
+    58	1.83408	0	1.75436e-05
+    59	1.80844	0	1.72411e-05
+    60	1.78333	0	1.69489e-05
+    61	1.75867	0	1.66664e-05
+    62	1.73445	0	1.63932e-05
+    63	1.7107	0	1.61288e-05
+    64	1.68742	0	1.58728e-05
+    65	1.66458	0	1.56248e-05
+    66	1.64218	0	1.53844e-05
+    67	1.62023	0	1.51513e-05
+    68	1.5987	0	1.49252e-05
+    69	1.57904	0	1.47057e-05
+    70	1.56657	0	1.44925e-05
+    71	1.55583	0	1.42855e-05
+    72	1.54511	0	1.40843e-05
+    73	1.5344	0	1.38887e-05
+    74	1.52371	0	1.36984e-05
+    75	1.51307	0	1.35133e-05
+    76	1.50246	0	1.33332e-05
+    77	1.49189	0	1.31577e-05
+    78	1.48136	0	1.29868e-05
+    79	1.4709	0	1.28203e-05
+    80	1.46048	0	1.26581e-05
+    81	1.45015	0	1.24998e-05
+    82	1.43986	0	1.23455e-05
+    83	1.42964	0	1.2195e-05
+    84	1.4195	0	1.2048e-05
+    85	1.40943	0	1.19046e-05
+    86	1.39944	0	1.17646e-05
+    87	1.38951	0	1.16278e-05
+    88	1.37969	0	1.14941e-05
+    89	1.36993	0	1.13635e-05
+    90	1.36025	0	1.12358e-05
+    91	1.35065	0	1.1111e-05
+    92	1.34114	0	1.09889e-05
+    93	1.33172	0	1.08694e-05
+    94	1.32238	0	1.07526e-05
+    95	1.31314	0	1.06382e-05
+    96	1.30398	0	1.05262e-05
+    97	1.2949	0	1.04166e-05
+    98	1.28589	0	1.03092e-05
+    99	1.27699	0	1.0204e-05
+   100	1.26818	0	1.01009e-05
+   101	1.25944	0	9.9999e-06
+   102	1.2508	0	9.90089e-06
+   103	1.24225	0	9.80383e-06
+   104	1.23377	0	9.70864e-06
+   105	1.22539	0	9.61529e-06
+   106	1.21708	0	9.52372e-06
+   107	1.20889	0	9.43387e-06
+   108	1.20074	0	9.34571e-06
+   109	1.19269	0	9.25917e-06
+   110	1.18474	0	9.17423e-06
+   111	1.17685	0	9.09083e-06
+   112	1.16906	0	9.00893e-06
+   113	1.16129	0	8.92849e-06
+   114	1.15369	0	8.84948e-06
+   115	1.14613	0	8.77185e-06
+   116	1.13864	0	8.69558e-06
+   117	1.13122	0	8.62062e-06
+   118	1.12392	0	8.54694e-06
+   119	1.11661	0	8.4745e-06
+   120	1.10948	0	8.40329e-06
+   121	1.10232	0	8.33326e-06
+   122	1.09534	0	8.26439e-06
+   123	1.08836	0	8.19665e-06
+   124	1.08147	0	8.13002e-06
+   125	1.07464	0	8.06445e-06
+   126	1.06792	0	7.99994e-06
+   127	1.06125	0	7.93644e-06
+   128	1.05466	0	7.87395e-06
+   129	1.0481	0	7.81244e-06
+   130	1.04165	0	7.75188e-06
+   131	1.03523	0	7.69225e-06
+   132	1.0289	0	7.63353e-06
+   133	1.02258	0	7.5757e-06
+   134	1.01641	0	7.51874e-06
+   135	1.01025	0	7.46263e-06
+   136	1.00419	0	7.40735e-06
+   137	0.998155	0	7.35289e-06
+   138	0.992165	0	7.29922e-06
+   139	0.986275	0	7.24632e-06
+   140	0.980418	0	7.19419e-06
+   141	0.974623	0	7.14281e-06
+   142	0.968886	0	7.09215e-06
+   143	0.963214	0	7.0422e-06
+   144	0.957573	0	6.99296e-06
+   145	0.952013	0	6.9444e-06
+   146	0.946579	0	6.8965e-06
+   147	0.941064	0	6.84927e-06
+   148	0.935761	0	6.80267e-06
+   149	0.930334	0	6.75671e-06
+   150	0.92509	0	6.71136e-06
+   151	0.919844	0	6.66662e-06
+   152	0.914641	0	6.62247e-06
+   153	0.909502	0	6.5789e-06
+   154	0.904451	0	6.5359e-06
+   155	0.899398	0	6.49346e-06
+   156	0.894413	0	6.45157e-06
+   157	0.889443	0	6.41022e-06
+   158	0.884575	0	6.36939e-06
+   159	0.879645	0	6.32907e-06
+   160	0.874901	0	6.28927e-06
+   161	0.87014	0	6.24996e-06
+   162	0.8654	0	6.21114e-06
+   163	0.860714	0	6.1728e-06
+   164	0.856084	0	6.13493e-06
+   165	0.85151	0	6.09752e-06
+   166	0.846955	0	6.06057e-06
+   167	0.842415	0	6.02406e-06
+   168	0.837918	0	5.98799e-06
+   169	0.833406	0	5.95235e-06
+   170	0.829134	0	5.91712e-06
+   171	0.824733	0	5.88232e-06
+   172	0.820404	0	5.84792e-06
+   173	0.816214	0	5.81392e-06
+   174	0.811853	0	5.78031e-06
+   175	0.807668	0	5.74709e-06
+   176	0.803466	0	5.71425e-06
+   177	0.799344	0	5.68179e-06
+   178	0.79525	0	5.64969e-06
+   179	0.791212	0	5.61795e-06
+   180	0.787352	0	5.58656e-06
+   181	0.7832	0	5.55552e-06
+   182	0.779261	0	5.52483e-06
+   183	0.775451	0	5.49448e-06
+   184	0.771506	0	5.46445e-06
+   185	0.767659	0	5.43475e-06
+   186	0.76387	0	5.40538e-06
+   187	0.760096	0	5.37632e-06
+   188	0.756349	0	5.34756e-06
+   189	0.752551	0	5.31912e-06
+   190	0.748972	0	5.29098e-06
+   191	0.745315	0	5.26313e-06
+   192	0.741684	0	5.23557e-06
+   193	0.738084	0	5.20831e-06
+   194	0.734532	0	5.18132e-06
+   195	0.730973	0	5.15461e-06
+   196	0.727444	0	5.12818e-06
+   197	0.72401	0	5.10201e-06
+   198	0.720565	0	5.07612e-06
+   199	0.717147	0	5.05048e-06
+   200	0.713623	0	5.0251e-06
+   201	0.710375	0	5e-06
+
+
+Date: Sun Jun 18 17:10:09 2023
+Total elapsed time: 101.982 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4621
+traniter = 4608
+tranpoints = 1907
+accept = 1430
+rejected = 477
+matrix size = 57
+fillins = 85
+solver = Normal
+Avg thread counts: 1.3/1.7/1.7/1.3
+Matrix Compiler1: 5.93 KB object code size  4.9/2.4/[1.9]
+Matrix Compiler2: 5.73 KB object code size  1.8/2.1/[1.4]
+

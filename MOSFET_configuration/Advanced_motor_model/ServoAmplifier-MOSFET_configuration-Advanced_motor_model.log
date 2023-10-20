@@ -1,0 +1,33 @@
+Circuit: * C:\Users\Leon\Archivos personales\Universidad\4_GIERM\Instr_Acond_Signal\Proyecto\ServoAmplifier\ServoAmplifier\MOSFET_configuration\Advanced_motor_model\ServoAmplifier-MOSFET_configuration-Advanced_motor_model.asc
+
+Error on line 3210 : .ic i(u2:u11:l1)1)  0 
+	 Error: .ic syntax error.
+Error on line 3210 : .ic i(u2:u17:l1)1)  0 
+	 Error: .ic syntax error.
+WARNING: Less than two connections to node n024.  This node is used by r:u5:out4:out.
+WARNING: Less than two connections to node n023.  This node is used by r:u5:out5:out.
+WARNING: Less than two connections to node wrpm.  This node is used by e:u2:u21:1.
+WARNING: Less than two connections to node ia.  This node is used by e:u1:1.
+WARNING: Less than two connections to node ib.  This node is used by e:u6:1.
+WARNING: Less than two connections to node ic.  This node is used by e:u7:1.
+Per .tran options, skipping operating point for transient analysis.
+Ignoring empty pin current: Ix(u5:vcc)
+
+Date: Sun Jun 18 17:11:17 2023
+Total elapsed time: 23.843 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 500018
+traniter = 500018
+tranpoints = 180327
+accept = 127893
+rejected = 52434
+matrix size = 225
+fillins = 77
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1: 9.39 KB object code size  6.6/4.0/[3.0]
+Matrix Compiler2: 14.54 KB object code size  4.3/5.7/[3.5]
+

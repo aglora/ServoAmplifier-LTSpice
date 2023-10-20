@@ -1,0 +1,43 @@
+Circuit: * C:\Users\Leon\Archivos personales\Universidad\4_GIERM\Instr_Acond_Signal\Proyecto\ServoAmplifier\ServoAmplifier\MOSFET_configuration\IRFP_mosfets\IRFP_Mosfet_Output_characteristic_analysis\IRFP_Mosfet_Output_characteristic_analysis.asc
+
+WARNING: Less than two connections to node vsb.  This node is used by vsb.
+.step vgs=3.5
+.step vgs=3.55
+.step vgs=3.6
+.step vgs=3.65
+.step vgs=3.7
+.step vgs=3.75
+.step vgs=3.8
+.step vgs=3.85
+.step vgs=3.9
+.step vgs=3.95
+.step vgs=4
+.step vgs=4.05
+.step vgs=4.1
+.step vgs=4.15
+.step vgs=4.2
+.step vgs=4.25
+.step vgs=4.3
+.step vgs=4.35
+.step vgs=4.4
+.step vgs=4.45
+.step vgs=4.5
+
+Date: Sun Jun 18 10:17:14 2023
+Total elapsed time: 4.360 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 63105
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 10
+fillins = 0
+solver = Normal
+Avg thread counts: 1.0/0.0/1.0/1.0
+Matrix Compiler1:      19 opcodes  0.1/[0.1]/0.2
+Matrix Compiler2: off  [0.1]/0.1/0.1
+

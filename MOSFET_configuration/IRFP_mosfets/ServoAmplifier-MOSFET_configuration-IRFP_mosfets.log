@@ -1,0 +1,58 @@
+Circuit: * C:\Users\Leon\Archivos personales\Universidad\4_GIERM\Instr_Acond_Signal\Proyecto\ServoAmplifier\ServoAmplifier\MOSFET_configuration\IRFP_mosfets\ServoAmplifier-MOSFET_configuration-IRFP_mosfets.asc
+
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u5:1)
+Ignoring empty pin current: Ix(u5:2)
+Ignoring empty pin current: Ix(u3:1)
+Ignoring empty pin current: Ix(u3:2)
+Ignoring empty pin current: Ix(u4:1)
+Ignoring empty pin current: Ix(u4:2)
+Ignoring empty pin current: Ix(u6:1)
+Ignoring empty pin current: Ix(u6:2)
+Ignoring empty pin current: Ix(u7:1)
+Ignoring empty pin current: Ix(u7:2)
+Ignoring empty pin current: Ix(u8:1)
+Ignoring empty pin current: Ix(u8:2)
+Ignoring empty pin current: Ix(u9:1)
+Ignoring empty pin current: Ix(u9:2)
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u5:1)
+Ignoring empty pin current: Ix(u5:2)
+Ignoring empty pin current: Ix(u3:1)
+Ignoring empty pin current: Ix(u3:2)
+Ignoring empty pin current: Ix(u4:1)
+Ignoring empty pin current: Ix(u4:2)
+Ignoring empty pin current: Ix(u6:1)
+Ignoring empty pin current: Ix(u6:2)
+Ignoring empty pin current: Ix(u7:1)
+Ignoring empty pin current: Ix(u7:2)
+Ignoring empty pin current: Ix(u8:1)
+Ignoring empty pin current: Ix(u8:2)
+Ignoring empty pin current: Ix(u9:1)
+Ignoring empty pin current: Ix(u9:2)
+
+Date: Sun Jun 18 17:07:48 2023
+Total elapsed time: 1.201 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 24818
+traniter = 24805
+tranpoints = 11450
+accept = 9356
+rejected = 2094
+matrix size = 57
+fillins = 85
+solver = Normal
+Avg thread counts: 1.1/1.1/1.1/1.1
+Matrix Compiler1: 5.93 KB object code size  4.5/2.5/[1.9]
+Matrix Compiler2: 5.73 KB object code size  1.8/2.5/[1.1]
+
