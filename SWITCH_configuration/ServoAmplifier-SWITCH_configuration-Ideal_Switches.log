@@ -1,0 +1,40 @@
+Circuit: * C:\Users\Leon\Archivos personales\Universidad\4_GIERM\Instr_Acond_Signal\Proyecto\ServoAmplifier\ServoAmplifier\SWITCH_configuration\ServoAmplifier-SWITCH_configuration-Ideal_Switches.asc
+
+a: Removing PWL point (0.004,1)
+a: Removing PWL point (0.012,0)
+a: Removing PWL point (0.024,1)
+a: Removing PWL point (0.036,0)
+a: Removing PWL point (0.048,1)
+a: Removing PWL point (0.06,0)
+b: Removing PWL point (0.008,1)
+b: Removing PWL point (0.02,0)
+b: Removing PWL point (0.032,1)
+b: Removing PWL point (0.044,0)
+b: Removing PWL point (0.056,1)
+b: Removing PWL point (0.068,0)
+c: Removing PWL point (0.004,0)
+c: Removing PWL point (0.016,1)
+c: Removing PWL point (0.028,0)
+c: Removing PWL point (0.04,1)
+c: Removing PWL point (0.052,0)
+c: Removing PWL point (0.064,1)
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Jun 18 17:02:28 2023
+Total elapsed time: 0.176 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2966
+traniter = 2961
+tranpoints = 1452
+accept = 1408
+rejected = 44
+matrix size = 18
+fillins = 4
+solver = Normal
+Avg thread counts: 1.5/1.9/2.0/1.5
+Matrix Compiler1: 728 bytes object code size  0.8/0.5/[0.5]
+Matrix Compiler2: 1.11 KB object code size  0.5/0.7/[0.4]
+
