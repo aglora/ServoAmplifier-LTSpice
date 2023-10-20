@@ -28,3 +28,8 @@ Además, introduciremos el uso de modelos de motor externos más realistas.
 <img src="https://github.com/aglora/ServoAmplifier-LTSpice/blob/main/imgs/8.png" width="700" />
 <img src="https://github.com/aglora/ServoAmplifier-LTSpice/blob/main/imgs/9.png" width="700" />
 <img src="https://github.com/aglora/ServoAmplifier-LTSpice/blob/main/imgs/10.png" width="700" />
+
+## Authors
+[RoboticsLeon](https://github.com/RoboticsLeon) //
+[isaacrg19](https://github.com/isaacrg19) //
+[aglora](https://github.com/aglora) 
