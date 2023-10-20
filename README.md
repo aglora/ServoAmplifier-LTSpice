@@ -1,6 +1,8 @@
 # ServoAmplifier-LTSpice
 Simulación en LTSpice de un servo amplificador para alimentación y control de motores brushless de distinta potencia
 
+<img src="https://github.com/aglora/ServoAmplifier-LTSpice/blob/main/imgs/1.png" width="700" />
+
 # RESUMEN
 El control de motores brushless (sin escobillas) ha ganado importancia en múltiples aplicaciones en los últimos años. En el área de la robótica juegan un papel fundamental en multitud de sistemas. En concreto son muy usados en robots aéreos como los conocidos drones y en alternativas en auge como los ornitópteros.
 
@@ -16,3 +18,13 @@ dispositivos de mayor potencia como son los IGBTs con vistas a aplicaciones que 
 
 Llevaremos a cabo distintos análisis de funcionamiento de los dispositivos y sistemas completos para ofrecer comparativas entre ellos. 
 Además, introduciremos el uso de modelos de motor externos más realistas.
+
+<img src="https://github.com/aglora/ServoAmplifier-LTSpice/blob/main/imgs/2.png" width="700" />
+<img src="https://github.com/aglora/ServoAmplifier-LTSpice/blob/main/imgs/3.png" width="700" />
+<img src="https://github.com/aglora/ServoAmplifier-LTSpice/blob/main/imgs/4.png" width="700" />
+<img src="https://github.com/aglora/ServoAmplifier-LTSpice/blob/main/imgs/5.png" width="700" />
+<img src="https://github.com/aglora/ServoAmplifier-LTSpice/blob/main/imgs/6.png" width="700" />
+<img src="https://github.com/aglora/ServoAmplifier-LTSpice/blob/main/imgs/7.png" width="700" />
+<img src="https://github.com/aglora/ServoAmplifier-LTSpice/blob/main/imgs/8.png" width="700" />
+<img src="https://github.com/aglora/ServoAmplifier-LTSpice/blob/main/imgs/9.png" width="700" />
+<img src="https://github.com/aglora/ServoAmplifier-LTSpice/blob/main/imgs/10.png" width="700" />
