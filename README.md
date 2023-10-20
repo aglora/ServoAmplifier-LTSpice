@@ -31,5 +31,4 @@ Además, introduciremos el uso de modelos de motor externos más realistas.
 
 ## Authors
 [RoboticsLeon](https://github.com/RoboticsLeon) //
-[isaacrg19](https://github.com/isaacrg19) //
 [aglora](https://github.com/aglora) 
