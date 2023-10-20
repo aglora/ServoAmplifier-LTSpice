@@ -1,0 +1,45 @@
+Circuit: * C:\Users\Leon\Archivos personales\Universidad\4_GIERM\Instr_Acond_Signal\Proyecto\ServoAmplifier\ServoAmplifier\IGBT_configuration\IXYT_IGBT_Output_characteristic_analysis\IXYT_IGBT_Output_characteristic_analysis.asc
+
+vge: Missing value, assumed 0V @ DC
+vce: Missing value, assumed 0V @ DC
+.OP point found by inspection.
+.step vge=0
+.step vge=0.5
+.step vge=1
+.step vge=1.5
+.step vge=2
+.step vge=2.5
+.step vge=3
+.step vge=3.5
+.step vge=4
+.step vge=4.5
+.step vge=5
+.step vge=5.5
+.step vge=6
+.step vge=6.5
+.step vge=7
+.step vge=7.5
+.step vge=8
+.step vge=8.5
+.step vge=9
+.step vge=9.5
+.step vge=10
+
+Date: Sun Jun 18 17:21:17 2023
+Total elapsed time: 1.183 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 16986
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 8
+fillins = 0
+solver = Normal
+Avg thread counts: 1.1/0.0/1.2/1.1
+Matrix Compiler1:      23 opcodes  0.2/[0.1]/0.2
+Matrix Compiler2: 636 bytes object code size  0.1/0.1/[0.1]
+

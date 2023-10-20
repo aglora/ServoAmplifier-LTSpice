@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Leon\Archivos personales\Universidad\4_GIERM\Instr_Acond_Signal\Proyecto\ServoAmplifier\ServoAmplifier\IGBT_configuration\NoIdealVoltageSupply\BuckConverter.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Jun 18 17:17:58 2023
+Total elapsed time: 0.958 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1024960
+traniter = 1024957
+tranpoints = 504423
+accept = 422854
+rejected = 81569
+matrix size = 6
+fillins = 0
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1:       8 opcodes  0.1/[0.1]/0.1
+Matrix Compiler2: 326 bytes object code size  0.1/0.1/[0.1]
+

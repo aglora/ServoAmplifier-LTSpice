@@ -1,0 +1,265 @@
+Circuit: * C:\Users\Leon\Archivos personales\Universidad\4_GIERM\Instr_Acond_Signal\Proyecto\ServoAmplifier\ServoAmplifier\IGBT_configuration\frequency_study_pp_IGBT\frequency_study_pp_IGBT.asc
+
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u3:1)
+Ignoring empty pin current: Ix(u3:2)
+Ignoring empty pin current: Ix(u4:1)
+Ignoring empty pin current: Ix(u4:2)
+Ignoring empty pin current: Ix(u5:1)
+Ignoring empty pin current: Ix(u5:2)
+Ignoring empty pin current: Ix(u6:1)
+Ignoring empty pin current: Ix(u6:2)
+Ignoring empty pin current: Ix(u7:1)
+Ignoring empty pin current: Ix(u7:2)
+Ignoring empty pin current: Ix(u8:1)
+Ignoring empty pin current: Ix(u8:2)
+Ignoring empty pin current: Ix(u9:1)
+Ignoring empty pin current: Ix(u9:2)
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u3:1)
+Ignoring empty pin current: Ix(u3:2)
+Ignoring empty pin current: Ix(u4:1)
+Ignoring empty pin current: Ix(u4:2)
+Ignoring empty pin current: Ix(u5:1)
+Ignoring empty pin current: Ix(u5:2)
+Ignoring empty pin current: Ix(u6:1)
+Ignoring empty pin current: Ix(u6:2)
+Ignoring empty pin current: Ix(u7:1)
+Ignoring empty pin current: Ix(u7:2)
+Ignoring empty pin current: Ix(u8:1)
+Ignoring empty pin current: Ix(u8:2)
+Ignoring empty pin current: Ix(u9:1)
+Ignoring empty pin current: Ix(u9:2)
+.step fp=1
+.step fp=101
+.step fp=201
+.step fp=301
+.step fp=401
+.step fp=501
+.step fp=601
+.step fp=701
+.step fp=801
+.step fp=901
+.step fp=1001
+.step fp=1101
+.step fp=1201
+.step fp=1301
+.step fp=1401
+.step fp=1501
+.step fp=1601
+.step fp=1701
+.step fp=1801
+.step fp=1901
+.step fp=2001
+.step fp=2101
+.step fp=2201
+.step fp=2301
+.step fp=2401
+.step fp=2501
+.step fp=2601
+.step fp=2701
+.step fp=2801
+.step fp=2901
+.step fp=3001
+.step fp=3101
+.step fp=3201
+.step fp=3301
+.step fp=3401
+.step fp=3501
+.step fp=3601
+.step fp=3701
+.step fp=3801
+.step fp=3901
+.step fp=4001
+.step fp=4101
+.step fp=4201
+.step fp=4301
+.step fp=4401
+.step fp=4501
+.step fp=4601
+.step fp=4701
+.step fp=4801
+.step fp=4901
+.step fp=5001
+.step fp=5101
+.step fp=5201
+.step fp=5301
+.step fp=5401
+.step fp=5501
+.step fp=5601
+.step fp=5701
+.step fp=5801
+.step fp=5901
+.step fp=6001
+.step fp=6101
+.step fp=6201
+.step fp=6301
+.step fp=6401
+.step fp=6501
+.step fp=6601
+.step fp=6701
+.step fp=6801
+.step fp=6901
+.step fp=7001
+.step fp=7101
+.step fp=7201
+.step fp=7301
+.step fp=7401
+.step fp=7501
+.step fp=7601
+.step fp=7701
+.step fp=7801
+.step fp=7901
+.step fp=8001
+.step fp=8101
+.step fp=8201
+.step fp=8301
+.step fp=8401
+.step fp=8501
+.step fp=8601
+.step fp=8701
+.step fp=8801
+.step fp=8901
+.step fp=9001
+.step fp=9101
+.step fp=9201
+.step fp=9301
+.step fp=9401
+.step fp=9501
+.step fp=9601
+.step fp=9701
+.step fp=9801
+.step fp=9901
+.step fp=10000
+
+
+Measurement: iout_pp
+  step	PP(i(la))	FROM	TO
+     1	16.1929	0	1
+     2	16.1929	0	0.00990099
+     3	16.1929	0	0.00497512
+     4	16.1929	0	0.00332226
+     5	16.1929	0	0.00249377
+     6	16.1929	0	0.00199601
+     7	16.1929	0	0.00166389
+     8	16.1929	0	0.00142653
+     9	16.1929	0	0.00124844
+    10	16.1929	0	0.00110988
+    11	16.1929	0	0.000999001
+    12	16.1929	0	0.000908265
+    13	16.1929	0	0.000832639
+    14	16.1929	0	0.00076864
+    15	16.1929	0	0.000713776
+    16	16.1929	0	0.000666223
+    17	16.1928	0	0.00062461
+    18	16.1927	0	0.000587889
+    19	16.1926	0	0.000555247
+    20	16.1923	0	0.000526039
+    21	16.192	0	0.00049975
+    22	16.1915	0	0.000475964
+    23	16.1908	0	0.000454339
+    24	16.1899	0	0.000434594
+    25	16.1886	0	0.000416493
+    26	16.1871	0	0.00039984
+    27	16.1852	0	0.000384468
+    28	16.1829	0	0.000370233
+    29	16.1802	0	0.000357015
+    30	16.1769	0	0.000344709
+    31	16.1731	0	0.000333222
+    32	16.1688	0	0.000322477
+    33	16.1639	0	0.000312402
+    34	16.1584	0	0.000302939
+    35	16.1522	0	0.000294031
+    36	16.1454	0	0.000285633
+    37	16.138	0	0.000277701
+    38	16.1298	0	0.000270197
+    39	16.121	0	0.000263089
+    40	16.1115	0	0.000256345
+    41	16.1013	0	0.000249938
+    42	16.0903	0	0.000243843
+    43	16.0787	0	0.000238039
+    44	16.0664	0	0.000232504
+    45	16.0534	0	0.000227221
+    46	16.0397	0	0.000222173
+    47	16.0253	0	0.000217344
+    48	16.0102	0	0.000212721
+    49	15.9945	0	0.00020829
+    50	15.9781	0	0.00020404
+    51	15.9609	0	0.00019996
+    52	15.9432	0	0.00019604
+    53	15.9248	0	0.000192271
+    54	15.9057	0	0.000188644
+    55	15.886	0	0.000185151
+    56	15.8656	0	0.000181785
+    57	15.8446	0	0.00017854
+    58	15.823	0	0.000175408
+    59	15.8009	0	0.000172384
+    60	15.7781	0	0.000169463
+    61	15.7547	0	0.000166639
+    62	15.7307	0	0.000163908
+    63	15.7061	0	0.000161264
+    64	15.681	0	0.000158705
+    65	15.6552	0	0.000156226
+    66	15.629	0	0.000153822
+    67	15.6022	0	0.000151492
+    68	15.5746	0	0.000149231
+    69	15.5467	0	0.000147037
+    70	15.5183	0	0.000144907
+    71	15.4893	0	0.000142837
+    72	15.4598	0	0.000140825
+    73	15.4297	0	0.00013887
+    74	15.3992	0	0.000136968
+    75	15.3681	0	0.000135117
+    76	15.3365	0	0.000133316
+    77	15.3046	0	0.000131562
+    78	15.2722	0	0.000129853
+    79	15.2393	0	0.000128189
+    80	15.206	0	0.000126566
+    81	15.1722	0	0.000124984
+    82	15.138	0	0.000123442
+    83	15.1033	0	0.000121936
+    84	15.0683	0	0.000120467
+    85	15.0328	0	0.000119033
+    86	14.9968	0	0.000117633
+    87	14.9609	0	0.000116266
+    88	14.9243	0	0.000114929
+    89	14.8872	0	0.000113623
+    90	14.85	0	0.000112347
+    91	14.8124	0	0.000111099
+    92	14.7745	0	0.000109878
+    93	14.7362	0	0.000108684
+    94	14.6977	0	0.000107515
+    95	14.6588	0	0.000106372
+    96	14.6196	0	0.000105252
+    97	14.5802	0	0.000104156
+    98	14.5405	0	0.000103082
+    99	14.5003	0	0.00010203
+   100	14.4602	0	0.000101
+   101	14.4201	0	0.0001
+
+
+Date: Sun Jun 18 17:21:55 2023
+Total elapsed time: 30.309 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6081
+traniter = 6075
+tranpoints = 2475
+accept = 2023
+rejected = 452
+matrix size = 63
+fillins = 53
+solver = Normal
+Avg thread counts: 1.2/1.6/1.5/1.2
+Matrix Compiler1: 6.10 KB object code size  1.5/0.7/[0.7]
+Matrix Compiler2: 5.98 KB object code size  0.6/0.7/[0.5]
+
